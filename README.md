@@ -8,3 +8,6 @@ Kodun çalışması için `haarcascade_frontalface_default.xml` dosyasının do�
 
 Aşağıdaki şekilde çalıştırabilirsiniz:
 
+python face_detection.py
+
+Bu komut, `video.mp4` isimli video dosyası üzerinde yüz algılama yapar. Algılanan yüzlerin etrafında bir dikdörtgen çizer ve sonuçları ekrana gösterir.
